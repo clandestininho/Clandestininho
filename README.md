@@ -192,4 +192,4 @@ Compartilho meus projetos e conhecimentos por meio deste GitHub. Para conhecer m
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=clandestininho&theme=github_dark"
   />
 </p>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=4169E1&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=4169E1&section=footer"/> 
