@@ -9,7 +9,7 @@ Me chamo Gleison Corimbaba Cristal e atuo há mais de sete anos com desenvolvime
 Sou fundador e desenvolvedor Full Stack na **[Nexfy Solutions](https://www.nexfysolutions.com.br/)**, onde desenvolvo sistemas personalizados, plataformas de automação, CRMs e soluções voltadas à organização e otimização de processos empresariais.
 
 
-Entre os meus principais projetos está o **NexDash**, um CRM integrado ao WhatsApp desenvolvido para organizar leads, centralizar atendimentos e automatizar processos comerciais.
+Entre os meus principais projetos está o **NexDash**, um CRM integrado ao WhatsApp desenvolvido para organizar leads, centralizar atendimentos, etiquetar e automatizar processos comerciais.
 
 Compartilho meus projetos e conhecimentos por meio deste GitHub. Para conhecer melhor os sistemas e serviços que desenvolvo, acesse **[nexfysolutions.com.br](https://www.nexfysolutions.com.br/)**.
 
@@ -192,4 +192,4 @@ Compartilho meus projetos e conhecimentos por meio deste GitHub. Para conhecer m
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=clandestininho&theme=github_dark"
   />
 </p>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=4169E1&section=footer"/> 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=4169E1&section=footer"/>
