@@ -192,4 +192,28 @@ Compartilho meus projetos e conhecimentos por meio deste GitHub. Para conhecer m
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=clandestininho&theme=github_dark"
   />
 </p>
+
+---
+
+### Gráfico de Contribuições
+
+<p align="center">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/clandestininho/Clandestininho/pacman-output/pacman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/clandestininho/Clandestininho/pacman-output/pacman-contribution-graph.svg"
+  />
+  <img
+    alt="Pacman contribution graph"
+    src="https://raw.githubusercontent.com/clandestininho/Clandestininho/pacman-output/pacman-contribution-graph.svg"
+  />
+</picture>
+</p>
+
+---
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=4169E1&section=footer"/>
