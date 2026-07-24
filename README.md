@@ -1,6 +1,8 @@
-# 💻 Gleison Corimbaba 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=4169E1&section=header"/>
 
-**`Desenvolvedor Full Stack`**
+#  Gleison Corimbaba 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=20&pause=1000&color=0BA723&width=435&lines=Desenvolvedor+Full+Stack)](https://git.io/typing-svg)
 
 Me chamo Gleison Corimbaba Cristal e atuo há mais de sete anos com desenvolvimento de sistemas web, automação de processos e integrações via API.
 
@@ -190,3 +192,4 @@ Compartilho meus projetos e conhecimentos por meio deste GitHub. Para conhecer m
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=clandestininho&theme=github_dark"
   />
 </p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=4169E1&section=footer"/>
